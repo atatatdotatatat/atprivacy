@@ -1,8 +1,8 @@
 title: '@Privacy'
 description: Privacy tips for normal people
-show_downloads: true
+show_downloads: false
 git_branch: master
-logo_url:
+logo_url: https://atatatdotatatat.at/logo.png
 google_analytics:
 theme: 
 wiki_folder: wiki
